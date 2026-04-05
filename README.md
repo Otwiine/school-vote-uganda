@@ -1,4 +1,4 @@
-# School Vote Uganda [IN PROGRESS]
+# School Vote Uganda [WORK IN PROGRESS]
 
 > Secure, transparent, and fast digital elections for secondary schools across Uganda.
 
