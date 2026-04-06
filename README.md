@@ -66,9 +66,9 @@ We handle the full setup — no technical knowledge required from your school.
 
 **Contact us:**
 
-- 📧 Email: [support@schoolvote-uganda.com](mailto:support@schoolvote-uganda.com)
-- 📱 WhatsApp: +256 7XX XXX XXX
-- 🌐 Live demo: [schoolvote-uganda.com](https://schoolvote-uganda.com)
+- 📧 Email: [REDACTED]
+- 📱 WhatsApp: +256 [REDACTED]
+- 🌐 Live demo: [REDACTED]
 
 ---
 
